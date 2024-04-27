@@ -1,0 +1,2 @@
+# litecoinlib
+litecoinlib
